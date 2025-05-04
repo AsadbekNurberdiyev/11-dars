@@ -1,0 +1,181 @@
+{"products": [
+    {
+      "id": 1,
+      "title": "Aqlli tish tozalagich",
+      "price": 560000,
+      "discount": "36 056 so'm chegirma",
+      "image": "https://images.uzum.uz/cv8c5nlpb7f9qcnh0sig/original.jpg",
+      "sales": 306,
+      "category": "tozalash",
+      "color": "qora",
+      "condition": "new"
+    },
+    {
+      "id": 2,
+      "title": "Simsiz quloqchin Pods 3",
+      "price": 489000,
+      "discount": "3 476 so'm chegirma",
+      "image": "https://images.uzum.uz/cu1bg4tht56ksubcu6r0/original.jpg",
+      "sales": 247,
+      "category": "quloqchin",
+      "color": "oq",
+      "condition": "used"
+    },
+    {
+      "id": 3,
+      "title": "Televizor KONNEN KN100HS",
+      "price": 1299000,
+      "discount": "640 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cuc7gp5ht56ksubg1fpg/original.jpg",
+      "sales": 92012,
+      "category": "televizor",
+      "color": "qora",
+      "condition": "new"
+    },
+    {
+      "id": 4,
+      "title": "Smartfon Redmi 12 4G",
+      "price": 1700000,
+      "discount": "120 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cu9olntht56ksubfat10/original.jpg",
+      "sales": 4000,
+      "category": "smartfon",
+      "color": "ko'k",
+      "condition": "new"
+    },
+    {
+      "id": 5,
+      "title": "Kiyim uchun bug' tozalagich",
+      "price": 229000,
+      "discount": "19 000 so'm chegirma",
+      "image": "https://images.uzum.uz/d01j7as7fd1p445tcpc0/original.jpg",
+      "sales": 542,
+      "category": "tozalash",
+      "color": "oq",
+      "condition": "used"
+    },
+    {
+      "id": 6,
+      "title": "Bluetooth kalonka JBL",
+      "price": 690000,
+      "discount": "50 000 so'm chegirma",
+      "image": "https://images.uzum.uz/csdkod34nkdhfdv6i2b0/original.jpg",
+      "sales": 1200,
+      "category": "audio",
+      "color": "qora",
+      "condition": "new"
+    },
+    {
+      "id": 7,
+      "title": "Mikroto'lqinli pech",
+      "price": 899000,
+      "discount": "65 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cq5irkj5qt1gj8deg4p0/original.jpg",
+      "sales": 300,
+      "category": "oshxona",
+      "color": "kumush",
+      "condition": "used"
+    },
+    {
+      "id": 8,
+      "title": "Smart Watch Haylou LS02",
+      "price": 299000,
+      "discount": "20 000 so'm chegirma",
+      "image": "https://images.uzum.uz/csiabadpq3ghb2qm7um0/original.jpg",
+      "sales": 1020,
+      "category": "smartwatch",
+      "color": "qora",
+      "condition": "new"
+    },
+    {
+      "id": 9,
+      "title": "USB to'plam 3 dona",
+      "price": 69000,
+      "discount": "5 000 so'm chegirma",
+      "image": "https://images.uzum.uz/ctckik7iub3d1eoll38g/original.jpg",
+      "sales": 840,
+      "category": "aksessuar",
+      "color": "qora",
+      "condition": "new"
+    },
+    {
+      "id": 10,
+      "title": "Portativ printer",
+      "price": 1500000,
+      "discount": "100 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cs6nig6o5c8cka40sln0/original.jpg",
+      "sales": 210,
+      "category": "ofis",
+      "color": "oq",
+      "condition": "used"
+    },
+    {
+      "id": 11,
+      "title": "Konditsioner Artel 12",
+      "price": 2400000,
+      "discount": "200 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cpb61hscrcfqljg0vf4g/original.jpg",
+      "sales": 150,
+      "category": "issiq-sovuqlik",
+      "color": "oq",
+      "condition": "new"
+    },
+    {
+      "id": 12,
+      "title": "Changyutgich Samsung",
+      "price": 990000,
+      "discount": "90 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cu6u685ht56ksubedtv0/original.jpg",
+      "sales": 350,
+      "category": "tozalash",
+      "color": "ko'k",
+      "condition": "used"
+    },
+    {
+      "id": 13,
+      "title": "Kichik kamera HD",
+      "price": 320000,
+      "discount": "15 000 so'm chegirma",
+      "image": "https://images.uzum.uz/d016rrui4n37npap7de0/original.jpg",
+      "sales": 410,
+      "category": "video",
+      "color": "qora",
+      "condition": "new"
+    },
+    {
+      "id": 14,
+      "title": "Mikrofon BM-800",
+      "price": 230000,
+      "discount": "10 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cs785abvgbkl7nojvpgg/original.jpg",
+      "sales": 700,
+      "category": "audio",
+      "color": "qora",
+      "condition": "used"
+    },
+    {
+      "id": 15,
+      "title": "Kiyim dazmollovchi",
+      "price": 560000,
+      "discount": "45 000 so'm chegirma",
+      "image": "https://images.uzum.uz/cpfa1pnfrr82f0a59qsg/original.jpg",
+      "sales": 430,
+      "category": "tozalash",
+      "color": "oq",
+      "condition": "new"
+    },
+    {
+      "id": 16,
+      "title": "Gaming klaviatura",
+      "price": 320000,
+      "discount": "25 000 so'm chegirma",
+      "image": "https://images.uzum.uz/ct5efutpb7f3jk81j85g/original.jpg",
+      "sales": 800,
+      "category": "kompyuter",
+      "color": "qora",
+      "condition": "new"
+    }
+   
+  ]
+}
+  
