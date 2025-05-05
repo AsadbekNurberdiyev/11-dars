@@ -11,11 +11,12 @@ const Header = () => {
             <div className="flex flex-wrap items-center justify-between container mx-auto px-4 py-2 gap-4">
                 <div className="flex flex-wrap items-center gap-4 flex-1 min-w-[280px]">
                     <div className="flex items-center gap-2">
-                        <img
+                        <Link to="/">  <img
                             src="https://api.logobank.uz/media/logos_preview/Uzum-01.png"
                             alt="Uzum logo"
                             className='w-[130px]'
-                        />
+                        /></Link>
+                      
                         <div className='hidden md:flex items-center gap-2 px-3 py-2 bg-indigo-300 hover:bg-indigo-200 rounded-lg cursor-pointer'>
                             <GalleryVerticalEnd />
                             <span className="text-sm">Tovarlar Katalogi</span>
@@ -35,10 +36,10 @@ const Header = () => {
                         <ShoppingCart size={22} className='hover:text-indigo-300' />
                         <p>Savat</p>
                     </Link>
-                    <button className='flex gap-2 cursor-pointer items-center text-sm'>
+                    <Link to="/like" className='flex gap-2 cursor-pointer items-center text-sm'>
                         <Heart size={22} className='hover:text-indigo-300' />
                         <p>Saralanganlar</p>
-                    </button>
+                    </Link>
                     <button className='border px-4 py-2 rounded-lg border-indigo-300 hover:bg-indigo-200 text-sm'>
                         Kirish
                     </button>
